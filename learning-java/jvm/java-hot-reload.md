@@ -2,7 +2,7 @@
 markmeta_author: wongoo
 markmeta_date: 2020-04-08
 markmeta_title: java jrebel hot reload
-markmeta_categories: 编程语言
+markmeta_categories: java
 markmeta_tags: java
 -->
 

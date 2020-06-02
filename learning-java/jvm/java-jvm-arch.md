@@ -2,7 +2,7 @@
 markmeta_author: 望哥
 markmeta_date: 2018-08-30
 markmeta_title: JVM架构
-markmeta_categories: 编程语言
+markmeta_categories: java
 markmeta_tags: java,jvm
 
 -->

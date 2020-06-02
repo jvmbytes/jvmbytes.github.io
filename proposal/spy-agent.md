@@ -6,7 +6,7 @@ markmeta_categories: proposal
 markmeta_tags: javaagent
 -->
 
-# expose the Instrumentation through java agent
+# expose the Instrumentation through java agent[RESOLVED]
 
 许多java字节码库都要依赖java 字节码编织的入口 Instrumentation 类，
 该类可以通过 javaagent 的 premain/agentmain 两种方式获得，
@@ -20,3 +20,7 @@ markmeta_tags: javaagent
 参考如下方案：
 
 ![](images/spy-agent.png)
+
+# solution
+
+see [jvmbytes agent](https://github.com/jvmbytes/agent).

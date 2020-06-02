@@ -1,4 +1,2 @@
-[tools](/tools/)
 [proposal](/proposal/)
-[nio](/nio/)
-[jvm](/jvm/)
+[learning-java](/learning-java/)

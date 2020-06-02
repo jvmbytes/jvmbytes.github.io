@@ -2,7 +2,7 @@
 markmeta_author: wongoo
 markmeta_date: 2019-01-16
 markmeta_title: java arthas 工具
-markmeta_categories: 编程语言
+markmeta_categories: java
 markmeta_tags: java
 -->
 

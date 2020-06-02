@@ -1,24 +1,20 @@
 # [jvmbytes](http://jvmbytes.com)
 
 ## jvmbytes.github.io
-* [java 引用](/java-reference), wongoo, 2019-01-16
-* [java 学习资料](/java-guide), wongoo, 2019-01-16
 
 ## Navigation
-[tools](/tools/)
 [proposal](/proposal/)
-[nio](/nio/)
-[jvm](/jvm/)
+[learning-java](/learning-java/)
 
 ## Categories
 
- [编程语言](/category/编程语言)
  [proposal](/category/proposal)
+ [java](/category/java)
 
 ## Tags
 
- [java](/tag/java)
  [javaagent](/tag/javaagent)
+ [java](/tag/java)
  [jvm](/tag/jvm)
  [hostspot](/tag/hostspot)
  [gc](/tag/gc)

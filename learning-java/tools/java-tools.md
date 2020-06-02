@@ -2,7 +2,7 @@
 markmeta_author: wongoo
 markmeta_date: 2019-08-21
 markmeta_title: java 分析工具
-markmeta_categories: 编程语言
+markmeta_categories: java
 markmeta_tags: java
 -->
 

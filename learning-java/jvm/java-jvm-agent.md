@@ -2,7 +2,7 @@
 markmeta_author: wongoo
 markmeta_date: 2019-04-02
 markmeta_title: JVM Agent 机制
-markmeta_categories: 编程语言
+markmeta_categories: java
 markmeta_tags: java,jvm
 -->
 
