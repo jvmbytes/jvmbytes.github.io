@@ -13,6 +13,7 @@
 
 ## Tags
 
+ [plugin](/tag/plugin)
  [javaagent](/tag/javaagent)
  [java](/tag/java)
  [jvm](/tag/jvm)
