@@ -1,6 +1,6 @@
 
- [plugin](/tag/plugin)
  [javaagent](/tag/javaagent)
+ [plugin](/tag/plugin)
  [java](/tag/java)
  [jvm](/tag/jvm)
  [hostspot](/tag/hostspot)
