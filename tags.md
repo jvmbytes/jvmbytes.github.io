@@ -1,6 +1,7 @@
 
- [javaagent](/tag/javaagent)
+ [spy](/tag/spy)
  [plugin](/tag/plugin)
+ [javaagent](/tag/javaagent)
  [java](/tag/java)
  [jvm](/tag/jvm)
  [hostspot](/tag/hostspot)
